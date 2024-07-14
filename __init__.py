@@ -1,0 +1,1 @@
+from recipes.intel_ndns.spiking_fullsubnet.model import SpikingFullSubNet
